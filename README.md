@@ -1,5 +1,7 @@
 # ✨ Supernova
 
+![supernova](.github/banner.jpg)
+
 > AI 기반 랜딩페이지 디자인 도구 - 생각을 말하면 바로 디자인으로
 
 Supernova는 Google Gemini AI를 활용하여 텍스트 설명만으로 전문적인 랜딩페이지를 생성하는 혁신적인 디자인 도구입니다. 디자이너나 개발자가 아니어도 누구나 쉽게 아름다운 웹 페이지를 만들 수 있습니다.
